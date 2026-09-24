@@ -1,0 +1,31 @@
+# Licence
+
+## Authored reference data and documentation
+
+Copyright (c) 2026 Constructelligence.
+
+The datasets authored in this repository — the cost code taxonomy, unit conversions, waste factors,
+earthwork volume factors, pay units, trade sequence, glossary, metric formulas — and the documentation
+around them are licensed under the **Creative Commons Attribution 4.0 International licence (CC BY 4.0)**:
+https://creativecommons.org/licenses/by/4.0/
+
+You may use, adapt and redistribute them, including commercially, provided you give appropriate credit,
+link to the licence, and indicate if changes were made.
+
+## Fetched public data
+
+Data fetched from public sources keeps its own terms, recorded in the `licence` column of each row and in
+`SOURCES.md`. The included sample is derived from the US Bureau of Labor Statistics public API, which is a
+work of the US federal government and is in the public domain.
+
+## Third-party names
+
+CSI, MasterFormat and other names are the property of their respective owners. CSI division numbers and
+titles are reproduced for mapping purposes only; the full MasterFormat numbering system is licensed from CSI
+and is not reproduced here. No endorsement by any standards body or agency is implied.
+
+## No warranty
+
+This data is provided "as is", without warranty of any kind. It is general reference material, not advice for
+any specific project, and not a substitute for your own verified measurements, your contracts, or the
+judgement of a competent person.

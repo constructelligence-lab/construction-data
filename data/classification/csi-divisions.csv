@@ -1,0 +1,35 @@
+division,title,group
+01,General Requirements,General
+02,Existing Conditions,General
+03,Concrete,Structural
+04,Masonry,Structural
+05,Metals,Structural
+06,Wood Plastics and Composites,Structural
+07,Thermal and Moisture Protection,Envelope
+08,Openings,Envelope
+09,Finishes,Interior
+10,Specialties,Interior
+11,Equipment,Interior
+12,Furnishings,Interior
+13,Special Construction,Special
+14,Conveying Equipment,Special
+21,Fire Suppression,Mechanical Electrical Plumbing
+22,Plumbing,Mechanical Electrical Plumbing
+23,Heating Ventilating and Air Conditioning,Mechanical Electrical Plumbing
+25,Integrated Automation,Mechanical Electrical Plumbing
+26,Electrical,Mechanical Electrical Plumbing
+27,Communications,Mechanical Electrical Plumbing
+28,Electronic Safety and Security,Mechanical Electrical Plumbing
+31,Earthwork,Site
+32,Exterior Improvements,Site
+33,Utilities,Site
+34,Transportation,Site
+35,Waterway and Marine Construction,Site
+40,Process Interconnections,Process
+41,Material Processing and Handling Equipment,Process
+42,Process Heating Cooling and Drying Equipment,Process
+43,Process Gas and Liquid Handling Purification and Storage Equipment,Process
+44,Pollution and Waste Control Equipment,Process
+45,Industry-Specific Manufacturing Equipment,Process
+46,Water and Wastewater Equipment,Process
+48,Electrical Power Generation,Process
