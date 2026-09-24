@@ -93,3 +93,8 @@ row. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
 This is general reference material, not advice for a specific project. Ranges are planning values, not
 standards. Contract, safety and compliance decisions belong with your contracts, your competent persons,
 your lawyer and your broker.
+
+---
+
+*Maintained by [Constructelligence](https://constructelligence.co) — construction cost intelligence for
+contractors.*
