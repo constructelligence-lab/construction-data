@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use or adapt this work, please cite it as below.
+type: dataset
+title: "Construction reference data"
+abstract: "General construction reference data in CSV: cost codes, units, waste factors, scope pay units, trade sequence, glossary, metric formulas, plus a BLS price-series pipeline."
+authors:
+  - name: Constructelligence
+    website: https://constructelligence.co
+repository-code: https://github.com/constructelligence-lab/construction-data
+url: https://constructelligence.co
+license: CC-BY-4.0
+date-released: 2026-09-24
+keywords:
+  - "construction"
+  - "reference data"
+  - "cost codes"
+  - "CSI divisions"
+  - "estimating"
+  - "open data"

@@ -1,4 +1,4 @@
-# construction-data
+# Construction reference data (CSV)
 
 General construction reference data in plain CSV: cost codes, classification, units, waste factors,
 scope pay units, a trade sequence, a glossary and cost-control metric formulas. Plus a small,
@@ -93,6 +93,23 @@ row. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
 This is general reference material, not advice for a specific project. Ranges are planning values, not
 standards. Contract, safety and compliance decisions belong with your contracts, your competent persons,
 your lawyer and your broker.
+
+<!-- begin:family -->
+## More from Constructelligence
+
+Open construction resources from the same team, all maintained alongside this one:
+
+| Repository | What it is |
+| --- | --- |
+| [AI in construction](https://github.com/constructelligence-lab/ai-in-construction) | A practical guide to AI in construction: what works today, what the data has to look like, the risks, and a 90-day plan. |
+| [Construction data migration](https://github.com/constructelligence-lab/construction-data-migration) | A guide and toolkit for moving a contractor between systems, and proving nothing was lost. |
+| [Construction project records](https://github.com/constructelligence-lab/construction-project-records) | Open schemas, templates and a checker for RFIs, submittals, change events, daily reports and punch lists. |
+| [Construction reference MCP server](https://github.com/constructelligence-lab/construction-mcp) | An offline MCP server that gives AI assistants construction reference data and calculators. |
+| [Construction prompts](https://github.com/constructelligence-lab/construction-prompts) | 28 prompts for ChatGPT, Claude and Gemini, from bid go/no-go to notice letters. |
+| [Construction agent skills](https://github.com/constructelligence-lab/construction-agent-skills) | 28 installable agent skills for Claude Code and any agent that reads SKILL.md. |
+| [Open source construction tools](https://github.com/constructelligence-lab/open-source-construction-tools) | Open source software for BIM, CAD, scheduling and site work, verified against the GitHub API. |
+
+<!-- end:family -->
 
 ---
 
