@@ -9,6 +9,13 @@ Nothing here is copied from a commercial estimating database, and nothing here i
 Most of it is authored reference material you can use as a starting point and then replace with your own
 numbers — which is the point, because your own history beats any published table.
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/datasets-dark.svg">
+    <img src="assets/datasets-light.svg" alt="Nine reference datasets as CSV files, from 142 starter cost codes down to 7 earthwork factors" width="100%">
+  </picture>
+</p>
+
 ## What is in the repository
 
 | Dataset | Rows | What it is |
