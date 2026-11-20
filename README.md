@@ -119,6 +119,10 @@ Open construction resources from the same team, all maintained alongside this on
 
 <!-- end:family -->
 
+## Related on constructelligence.co
+
+- [open models, datasets and tools](https://constructelligence.co/open-source/)
+
 ---
 
 *Maintained by [Constructelligence](https://constructelligence.co) — building the AI infrastructure for
